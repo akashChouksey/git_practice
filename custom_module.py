@@ -8,3 +8,10 @@ class Test:
             return str(len(self.test))
         elif format_spec == 'upper':
             return self.test.upper()
+
+
+"this is a custom class and this code is only for practice"
+
+"""
+hello frds
+"""
